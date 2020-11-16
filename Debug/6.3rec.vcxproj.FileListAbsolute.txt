@@ -1,0 +1,2 @@
+E:\vs\6.3rec\Debug\6.3rec.exe
+E:\vs\6.3rec\Debug\6.3rec.pdb
